@@ -1,0 +1,29 @@
+<options>
+    <server-browser>
+        <game-modes>
+            <combat>true</combat>
+            <Sentinel>true</Sentinel>
+        </game-modes>
+        <sort-function-name>PlayerCount</sort-function-name>
+        <game-modes-rookie>
+            <ns2>true</ns2>
+        </game-modes-rookie>
+        <game-mode-filter-has-been-non-rookie-yet>true</game-mode-filter-has-been-non-rookie-yet>
+    </server-browser>
+    <missionScreenOpenCount>0</missionScreenOpenCount>
+    <lastServerPassword></lastServerPassword>
+    <menu>
+        <unlocked_newPlayer_tutorialStep>true</unlocked_newPlayer_tutorialStep>
+        <unlocked_newPlayer_quickPlay>true</unlocked_newPlayer_quickPlay>
+        <unlocked_newPlayer_playAsAlien>true</unlocked_newPlayer_playAsAlien>
+        <unlocked_newPlayer_play3Maps>true</unlocked_newPlayer_play3Maps>
+        <unlocked_completionObj>true</unlocked_completionObj>
+        <pickedCinematicPath>cinematics/menus/main_menu_origin.cinematic</pickedCinematicPath>
+        <unlocked_newPlayer_playAsMarine>true</unlocked_newPlayer_playAsMarine>
+    </menu>
+    <introViewed>true</introViewed>
+    <mods>
+        <active_mods></active_mods>
+    </mods>
+    <inventory_new>[]</inventory_new>
+</options>
